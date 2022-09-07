@@ -1,0 +1,5 @@
+settings.py
+*.log
+.vscode/
+.idea/
+token.odt
